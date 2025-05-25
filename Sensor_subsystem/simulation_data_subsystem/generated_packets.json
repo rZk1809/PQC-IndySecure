@@ -1,0 +1,167 @@
+[
+    {
+        "packet_id": "SensorSubsystem1_P_0001",
+        "timestamp": 1745498313.997189,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 23.47,
+            "pressure_atm": 1.031
+        },
+        "status": "Critical",
+        "payload_data": "741749418f4275a2e744864426a035c85613c37f074501f5d00bc3d939b2c7eae6947eafb182782b642ada51c371edc790f72a8e278c968372c2a7cec41d777f5858aa4a65e2c5d0a99bc500db662079b787c00a7494c45f132df267ea98366fc12a3cff6b550fa86b6f6cf7cd5ca7027b8a45c86b23601b222fc2bd5899a33436e8b17e83335845b9e315e72fd68d539ab865283b155e8d47dd1f6f267f8cc21075832e8388192aa1a293c5a367c41dbe0c40b2d48658ebe613dc7b3dbce23c25e9038b410877de7bd428aea0ed1603c240217b0b02eb4457cf001063a43e7b0449a4756a203"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0002",
+        "timestamp": 1745498314.053186,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 20.99,
+            "pressure_atm": 1.007
+        },
+        "status": "Nominal",
+        "payload_data": "b630b43f8c52c1b65b61b9897fa7ece07379f4e74ca5fcae721509c83687810a2f02f65c20f713df728af82036fa30082c4affde0ab7c1e11a5fcbbc3f9a26df27197234318ba652aea5199f4d7638d8383be57a67bf8ed0c15082d358b960fb6b355e515b924759b83ab541ee5f22f27932ce9d4f0422834f67fffa50fab84c74909c8e28b23b7a947d8ef435e547d17e9969d9ce93d9afa5cedc65f62aa1802a20964f56c1b16d59e91fc5243357c7905cf7d7d3327f06f028fc238262ac207b3a1484c"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0003",
+        "timestamp": 1745498314.1088388,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 19.04,
+            "pressure_atm": 1.059
+        },
+        "status": "Offline",
+        "payload_data": "68436e760d8fb65d4bd5a4e42224decf4e05ea47cf4ec49d09bda88cd87fc79674711bf7d8d2b2f2336cdf2bb27be97dff849c40ab66205a39554fb10c36127ea0d531955e454f4fc6ee2fbe10f2e8b4dd11a8ae1749d54cc1d7430da27174c770150a7c8c3f5be83e50cbca8a2870621010e6cd76d4cdd5d3004e3f7abe83cadb1cb6bda471f926c47e2e17e6c"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0004",
+        "timestamp": 1745498314.16505,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 19.87,
+            "pressure_atm": 1.029
+        },
+        "status": "Offline",
+        "payload_data": "74ce192c42abdffa34d54dc6784aaa3881f726ba859eb3cb13950fc918bb81744875e4c2de638f0f7dda29ee35d5cd20fd916799fc3510b98c3a069a020b84dd118eaf0502fd4439fa210df0d6c41c11e40e8633959533a5acfe08d2ed2e21340f88c8ef2379eb799211b7e68f0f7b57082133eda43c2d551419808c653a42f1f96b5f8f74b2ce149be498b93a78e00d16003205c6cfe36a73957fdad1ddfbca622ee922b76d2575789a892815a240209d9dab7b2b99d57c44780"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0005",
+        "timestamp": 1745498314.221836,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 18.48,
+            "pressure_atm": 0.904
+        },
+        "status": "Offline",
+        "payload_data": "b042708a4e52260702b0e71f35b1c0b9983592f125b467d15e9c7c71ac7a58c448099fb8087865eb682a5fb0279c64f2ec42ed8a536cae22eeb4c747f61190a2e34b9764f60c2781f45e92f14a41a8d5b368950233402fbbfd8a8e8ebfa5abdbf658662b8f3e76183c3743482ccba47612cf445b8272dddf4d73bfea18330ce3599f3ad6fff2d689e5bbf73d15ee815435dbee5e1ae45c3f028495a8b58c23efebbc6ffea34b48e74f3b2647c286b11619e2a31adc5e95db27b6f5624ef549426e15a254dfe850a3f406f3333c57399f108133d7a4d5a0512b3f7c5ba8e02cf034c18874490717bfbc3106a51ff31f82c079b2f67a1e07cbed8b80ce0b5b525d2a57c4eca06421c0af413a0306c59ee3ccc6b80b12e99d3523e18f1ce52ad4adedfee5e014e8c2796ed93aa22098c85bf1772c8f491d40098a59caa5c0290d6ac6cea0b08870b67e64d24ddc9b997851737d1f2448f91f80d8b3f5ffa54117c4c1ed3b4ecf9dc83c32"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0006",
+        "timestamp": 1745498314.278659,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 24.55,
+            "pressure_atm": 1.028
+        },
+        "status": "Nominal",
+        "payload_data": "9447afceb9a6bc36ca2c916b68906441f55776e07a1cb8f65912559d7d5df8458fb3b4a5f11cf128985b5697517ee63052dbdffed745e9142dd5330a881874c79992fe628d0371"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0007",
+        "timestamp": 1745498314.3350961,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 27.31,
+            "pressure_atm": 0.922
+        },
+        "status": "Nominal",
+        "payload_data": "31bcba7f9e14df4bb802efa69c3eebca68689b86fe7575300f8c4b4fdcab404f513a08571d92e104ba892c1d34410b2973080954a02236c9dc0cd6f55053891a73f690d18f5c4f58d130d043a22195b470f2c44994b8eda6b8e4b5c97fc785b5a03efe9f63bd25b878d4e5b6a2d4fb6499b8eac23f9cbc44533854f6271d683ffcfdb1e0ab3b1f349f64ee77878f6fb227e757d74a516b78f28c0af73085a49c376897c2ab4f8e1e346daadfc62c99866b3b84efd8e85088475cc1390597c"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0008",
+        "timestamp": 1745498314.391859,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 19.95,
+            "pressure_atm": 0.902
+        },
+        "status": "Offline",
+        "payload_data": "b2fc3651d928a30b56a05385d3b8c86e2e2823174e00aa1a07f4213d435501a8c9c16854152ae6a0a42957e6561ee6ce3fc6a3b207ba6c7524aec53eadc1f7ca853c74dd9736302c6f68c59eddf90dda634cd7ba51dc464b583c1dbfd"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0009",
+        "timestamp": 1745498314.4487529,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 24.43,
+            "pressure_atm": 1.086
+        },
+        "status": "Nominal",
+        "payload_data": "376223586e356ee3c7634c93d2ede1bcec24b17605dc664fd78669b900dc7dc4b335952ef401faa4f3bb6694c799b107963ab3fc380a93208fa0d1775f2cdb2d6b08d6429600009f3c15e13e76111b790b9c0a2d7cf43105339109b789eb706539436e2e099bbf7237f395a5c271ea90426e864cad4b64f55d21381abef247ab28349dd2055a95b4a50b910812c84c51a2959441e2101921105e83f618f9e6fd4c5915e43355732db8d513905f506422cd2effe4f0a2ce9cd9edc10581269691d28524ce64614c27a0218521344c7f323ce23a017e60daea5799952a3aef064091df6c4ddff9751a490823fcd5851ff8ffedb4fb8a0b2ecc1a781c38121ba9ba67ee6a24b37939a9c928805fa7c75ff4392920550128eeaee151d0c6d94d583e927f6aa49b62c6d38e200e2a633518347541cdf078af2609ddc06115f67c5ffa6916f84a850fafa903dc4b1bbf716c9559c0910736e9f991ec9894b686f7b33"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0010",
+        "timestamp": 1745498314.505099,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 18.9,
+            "pressure_atm": 1.009
+        },
+        "status": "Offline",
+        "payload_data": "5ef1ad9e82a9836625f5e4cabba0250af41d21e613662c5ba897840622b291c1c1b7b360eb71423aeebe679703b78af2dd77f74ceb1d76748aa6d78fee6569c4b1ddd300dd123f5cd5e395f2b903167b9004c243704d3300cfc18e1f93e55dd9b9cf31534e4fa86ffee91938ffc1e91d8f2c226f4fb325876ca2694e41707e8c367172d20cb863d9c56b442af19e4dae772a9a0fcaeec1305e6837bd24d17cb47b6b7223f8b6ebaca0360576b0ba79da9578aab67b12b06baa0102b7b9b95ff879a918f4682429053fc5ea221a7d0cb00b1b86ad9c903667fd95d3e85d142c14f133e4e92d9dd0c0bf338cfb72055b99180936a6b1697ae51be7e5bf4f43b6d5e5a1f988885238779bcfc026203899d62f9beb13cf91b5b3ca34f7ea4cdb624e7b1a5c5d9f3"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0011",
+        "timestamp": 1745498314.562451,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 24.69,
+            "pressure_atm": 0.942
+        },
+        "status": "Critical",
+        "payload_data": "1f13aab44a26af7e9487c9f3b5122307633b7b8ed212d8fe8249bb93a17031c94d572c4b43e03deb0b265cdc5853"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0012",
+        "timestamp": 1745498314.6195798,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 27.43,
+            "pressure_atm": 1.036
+        },
+        "status": "Offline",
+        "payload_data": "0838ca0aa455739a72b02af9ed486324c8f5f2265c8b3d66368def83006b34dab0ed2dfed2faf2cb8336dcc80d65ee6d8e88640142fc2f1d2c80e0ea2e261b7f516"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0013",
+        "timestamp": 1745498314.676246,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 21.3,
+            "pressure_atm": 1.007
+        },
+        "status": "Critical",
+        "payload_data": "cab548728db08c9347cec33ed24523aaca460df939ad1f0cc2ee285249fd661162070b1d41125cc7f40cf945bf0e521433d0314c8d778eb33127ea2e957e3b37b6b7a880505ccd963bc79ca35170a98cadd0d46e0c14f46d4dad6dbdb4aa203c345328640ede3c2fe1e5e553cada3bb29a35f13177711477e60db15c86167f34feb6276a51009b1eea8a8b2599f957b811ec3aaeb42aed16b555ddf6bad10bf754c37aa928e2cb4211854a8f4c3cb371eb00a18ec01226e16c02302ad32964d0b51d3902c9817d14acba05ea0d995a90d8e59d2da172dfa614ebe9933906a98c8445ffda29854d00ecb67578ccf6465e67acbd9db57700c628d8bb2d67c895c0e33d2276b42f7c5b438412df8f288c0622b561c940753e24b70dbd1f83c9b3b7323e5637f823b4820f29980d4f2155923ad820796dbb93fa5e01e2d477538b4f81c81c7c77ef3b7901b04a4ceefffdae66142843517506760b08e2cb64b88369cb4c4564f73aa3393478d89db2ccebd1befe4456f990ab54ed6448596b51f023a0e342ec49a4a7ef8cc8a604a5f00c2b15"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0014",
+        "timestamp": 1745498314.7332559,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 26.04,
+            "pressure_atm": 0.948
+        },
+        "status": "Warning",
+        "payload_data": "29a7e15bff0e2bc7785497e17cbb26c53647052c4bacb9a57ab1be6c4596497549a13f0fc29c989c708ebc86ed7124d4020c0d27899aa48f4056d3d97f3cf9e4217f66e0e5dbc3bbb5eb450d11ff12dd23ab27583892e55948a481084261a202b775c2a89afbfc43e8c7241f16234a06d4d07bef3028eff8ec3b2b2ff3dca38d7819ece188660466b94390ab39dbe77d4350a313ec9a3ba748f5400a39157e04e2cb7fead57c4847"
+    },
+    {
+        "packet_id": "SensorSubsystem1_P_0015",
+        "timestamp": 1745498314.792177,
+        "sensor_subsystem_id": "SensorSubsystem1",
+        "sensor_readings": {
+            "temperature_c": 20.41,
+            "pressure_atm": 0.948
+        },
+        "status": "Nominal",
+        "payload_data": "26ca2d65e6e4bdb364fde610a0f965dc9c5835e7f2a1f21bdb8df1c606ad50c50d824e5970487e6a31ef6891ee335307bef7fd5f1b2b0714481ef190f9f91c6cf1f7bc80777942d511583de67b336711668da4b98b3bda83dbf9a105422c42f7e41b569e0ade37d77da564df5efa78b7ef1e9e4ed81507f2f88738d1d93d35e5cae4616ebf07d9363eeb5f1f4fd7916cf96f084b6107be5a74eb9c2c6432f53a6db66466746cf95686775b0432cb7752cbe006fa61f653c206b28cc48821f64a89da411dd2780634c5a4bb42e828911687df344dfe24e"
+    }
+]
