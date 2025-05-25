@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": 1744730557.339775,
+    "temperature": 34.11,
+    "humidity": 51.51,
+    "pressure": 1048.1,
+    "sensor_id": "SN-9802"
+  },
+  {
+    "timestamp": 1744730557.339797,
+    "temperature": 33.05,
+    "humidity": 30.72,
+    "pressure": 996.12,
+    "sensor_id": "SN-9777"
+  },
+  {
+    "timestamp": 1744730557.339801,
+    "temperature": 30.45,
+    "humidity": 39.23,
+    "pressure": 1046.67,
+    "sensor_id": "SN-6451"
+  },
+  {
+    "timestamp": 1744730557.339805,
+    "temperature": 27.27,
+    "humidity": 57.26,
+    "pressure": 996.45,
+    "sensor_id": "SN-2477"
+  },
+  {
+    "timestamp": 1744730557.339808,
+    "temperature": 16.55,
+    "humidity": 40.8,
+    "pressure": 982.34,
+    "sensor_id": "SN-4044"
+  },
+  {
+    "timestamp": 1744730557.339811,
+    "temperature": 29.32,
+    "humidity": 43.42,
+    "pressure": 990.94,
+    "sensor_id": "SN-6342"
+  },
+  {
+    "timestamp": 1744730557.339814,
+    "temperature": 29.64,
+    "humidity": 69.26,
+    "pressure": 996.17,
+    "sensor_id": "SN-4975"
+  },
+  {
+    "timestamp": 1744730557.339818,
+    "temperature": 20.99,
+    "humidity": 49.85,
+    "pressure": 1041.71,
+    "sensor_id": "SN-9528"
+  },
+  {
+    "timestamp": 1744730557.339825,
+    "temperature": 26.83,
+    "humidity": 68.12,
+    "pressure": 989.52,
+    "sensor_id": "SN-3969"
+  },
+  {
+    "timestamp": 1744730557.339828,
+    "temperature": 28.58,
+    "humidity": 46.44,
+    "pressure": 988.49,
+    "sensor_id": "SN-8354"
+  }
+]

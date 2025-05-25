@@ -1,0 +1,88 @@
+[
+  {
+    "packet_id": 0,
+    "payload": {
+      "humidity": 51.51,
+      "pressure": 1048.1,
+      "sensor_id": "SN-98>DEREPMAT<02",
+      "temperature": 34.11,
+      "timestamp": 1744730557.339775
+    },
+    "status": "decoded"
+  },
+  {
+    "packet_id": 1,
+    "payload": {
+      "humidity": 30.72,
+      "pressure": 996.12,
+      "sensor_id": "SN-9777",
+      "temperature": 33.05,
+      "timestamp": 1744730557.339797
+    },
+    "status": "decoded"
+  },
+  {
+    "packet_id": 2,
+    "payload": {
+      "humidity": 39.23,
+      "pressure": 1046.67,
+      "sensor_id": "SN-64>DEREPMAT<51",
+      "temperature": 30.45,
+      "timestamp": 1744730557.339801
+    },
+    "status": "decoded"
+  },
+  {
+    "packet_id": 3,
+    "payload": "{\"humidity\": 57.26, \"pressure\": 996.45, \"sensor_id\": \"SN-2477\", \"temperature\": 27.27, \"timestamp\":>DEREPMAT< 1744730557.339805}",
+    "status": "corrupted/decoding_error"
+  },
+  {
+    "packet_id": 4,
+    "payload": {
+      "humidity": 40.8,
+      ">DEREPMAT<pressure": 982.34,
+      "sensor_id": "SN-4044",
+      "temperature": 16.55,
+      "timestamp": 1744730557.339808
+    },
+    "status": "decoded"
+  },
+  {
+    "packet_id": 5,
+    "payload": {
+      "humidity": 43.42,
+      "pressure": 990.94,
+      "sensor_id": "SN-63>DEREPMAT<42",
+      "temperature": 29.32,
+      "timestamp": 1744730557.339811
+    },
+    "status": "decoded"
+  },
+  {
+    "packet_id": 6,
+    "payload": "{\"humidity\": 69.26, \"pressure\": 996.17, \"sensor_id\": \"SN-4975\", \"temperature\": 29.64, \"timestamp\":>DEREPMAT< 1744730557.339814}",
+    "status": "corrupted/decoding_error"
+  },
+  {
+    "packet_id": 7,
+    "payload": "{\"humidity\": 49.85, >DEREPMAT<\"pressure\": 1041.71, \"sensor_id\": \"SN-9528\", \"temperature\": 20.99, \"timestamp\": 1744730557.339818}",
+    "status": "corrupted/decoding_error"
+  },
+  {
+    "packet_id": 8,
+    "payload": {
+      "humidity": 68.12,
+      "pressure": 989.52,
+      "sensor_id": "SN-3969",
+      "temperature": 26.83,
+      "timestamp": 1744730557.339825
+    },
+    "status": "decoded"
+  },
+  {
+    "packet_id": 9,
+    "payload": "{\"humidity\": 46.44, \"pressure\": 988.49, \"sensor_id\": \"SN-8354\", \"temperature\": 28.58, \"timestamp\":>DEREPMAT< 1744730557.339828}",
+    "status": "corrupted/decoding_error"
+  }
+]

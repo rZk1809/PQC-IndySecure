@@ -1,0 +1,322 @@
+[
+  {
+    "packet_id": 0,
+    "attack_simulated": true,
+    "attack_details": {
+      "attack_type": "Data Corruption",
+      "targeted_subpacket_id": "0-1",
+      "original_encrypted_fragment": ":\"erutarepmet\" ,\"2089-NS\" :\"di_rosnes\" ",
+      "tampered_encrypted_fragment": ":\"erutarepmet\" ,\"20<TAMPERED>89-NS\" :\"di_rosnes\" "
+    },
+    "subpackets": [
+      {
+        "subpacket_id": "0-0",
+        "signature": "4c5ddd30790b7544d6fc02100f5b0d19f61f608d8e48d5e0fcb02881c31516c7",
+        "encrypted_data": ",1.8401 :\"erusserp\" ,15.15 :\"ytidimuh\"{",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "0-1",
+        "signature": "d89145bb299698ddf972a020e3150e3c53904d71373282f0db380457a28ae159",
+        "encrypted_data": ":\"erutarepmet\" ,\"20<TAMPERED>89-NS\" :\"di_rosnes\" ",
+        "tampered": true,
+        "original_encrypted_data_before_tamper": ":\"erutarepmet\" ,\"2089-NS\" :\"di_rosnes\" "
+      },
+      {
+        "subpacket_id": "0-2",
+        "signature": "fd61d651b06561c66dd6376d7138c3dec2a19d02201709c8b834cd495cd07d6f",
+        "encrypted_data": "}577933.7550374471 :\"pmatsemit\" ,11.43 ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      }
+    ]
+  },
+  {
+    "packet_id": 1,
+    "attack_simulated": false,
+    "attack_details": null,
+    "subpackets": [
+      {
+        "subpacket_id": "1-0",
+        "signature": "e7939a6ed504de82a28839fa52aca21dd19381e3f4f2257375fbd261e9f94262",
+        "encrypted_data": ",21.699 :\"erusserp\" ,27.03 :\"ytidimuh\"{",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "1-1",
+        "signature": "a50fe1b51267d6e483250cf01ec5ca6cef3affde183fb897c834ea31bca9072c",
+        "encrypted_data": ":\"erutarepmet\" ,\"7779-NS\" :\"di_rosnes\" ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "1-2",
+        "signature": "566f9bfa859d32f58de2ae98c35652e4230c4a1319f8c8b6c78e37cbbf8757ba",
+        "encrypted_data": "}797933.7550374471 :\"pmatsemit\" ,50.33 ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      }
+    ]
+  },
+  {
+    "packet_id": 2,
+    "attack_simulated": true,
+    "attack_details": {
+      "attack_type": "Data Corruption",
+      "targeted_subpacket_id": "2-1",
+      "original_encrypted_fragment": " :\"erutarepmet\" ,\"1546-NS\" :\"di_rosnes\" ",
+      "tampered_encrypted_fragment": " :\"erutarepmet\" ,\"15<TAMPERED>46-NS\" :\"di_rosnes\" "
+    },
+    "subpackets": [
+      {
+        "subpacket_id": "2-0",
+        "signature": "91e669638c0dba2d321cce4225a0a54247274ca396a401d57856588a78116cd7",
+        "encrypted_data": ",76.6401 :\"erusserp\" ,32.93 :\"ytidimuh\"{",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "2-1",
+        "signature": "2e50974f07f8a1e1e33209cdf04ab2e19941ce57aaafbd6b73c6839d14fb211d",
+        "encrypted_data": " :\"erutarepmet\" ,\"15<TAMPERED>46-NS\" :\"di_rosnes\" ",
+        "tampered": true,
+        "original_encrypted_data_before_tamper": " :\"erutarepmet\" ,\"1546-NS\" :\"di_rosnes\" "
+      },
+      {
+        "subpacket_id": "2-2",
+        "signature": "83e5d1b81583f842a646267397e0ba7769dc4bf3be9d10d923c6cc7fa21955dc",
+        "encrypted_data": "}108933.7550374471 :\"pmatsemit\" ,54.03",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      }
+    ]
+  },
+  {
+    "packet_id": 3,
+    "attack_simulated": true,
+    "attack_details": {
+      "attack_type": "Data Corruption",
+      "targeted_subpacket_id": "3-2",
+      "original_encrypted_fragment": "}508933.7550374471 :\"pmatsemit\" ,72.72 ",
+      "tampered_encrypted_fragment": "}508933.7550374471 <TAMPERED>:\"pmatsemit\" ,72.72 "
+    },
+    "subpackets": [
+      {
+        "subpacket_id": "3-0",
+        "signature": "5a164a77bcda14d4776c90701b55779aa93746c42792c9784e910ea54142bf73",
+        "encrypted_data": ",54.699 :\"erusserp\" ,62.75 :\"ytidimuh\"{",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "3-1",
+        "signature": "c4ed0b66cc8b1aa578919b8f52c2f073f043d9561be51e59265f7a61aed652f9",
+        "encrypted_data": ":\"erutarepmet\" ,\"7742-NS\" :\"di_rosnes\" ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "3-2",
+        "signature": "74907b54e600c07c4561191169daadad1e109756cdaaa489125a6f71b8f0ad25",
+        "encrypted_data": "}508933.7550374471 <TAMPERED>:\"pmatsemit\" ,72.72 ",
+        "tampered": true,
+        "original_encrypted_data_before_tamper": "}508933.7550374471 :\"pmatsemit\" ,72.72 "
+      }
+    ]
+  },
+  {
+    "packet_id": 4,
+    "attack_simulated": true,
+    "attack_details": {
+      "attack_type": "Data Corruption",
+      "targeted_subpacket_id": "4-0",
+      "original_encrypted_fragment": " ,43.289 :\"erusserp\" ,8.04 :\"ytidimuh\"{",
+      "tampered_encrypted_fragment": " ,43.289 :\"erusserp<TAMPERED>\" ,8.04 :\"ytidimuh\"{"
+    },
+    "subpackets": [
+      {
+        "subpacket_id": "4-0",
+        "signature": "67324c71737911f1c554acf8f5b0257367b782fde60bfa1343a8d2c9bb1334b9",
+        "encrypted_data": " ,43.289 :\"erusserp<TAMPERED>\" ,8.04 :\"ytidimuh\"{",
+        "tampered": true,
+        "original_encrypted_data_before_tamper": " ,43.289 :\"erusserp\" ,8.04 :\"ytidimuh\"{"
+      },
+      {
+        "subpacket_id": "4-1",
+        "signature": "f08b29c7d351c65dd026b56cbd6296aabe92792b2f8dd50fb8a095f9fbc5d952",
+        "encrypted_data": " :\"erutarepmet\" ,\"4404-NS\" :\"di_rosnes\"",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "4-2",
+        "signature": "fee8c5ab9d3b1e4fbc07fbbe0225191e5c38961ff37ce66cca34a667c882752d",
+        "encrypted_data": "}808933.7550374471 :\"pmatsemit\" ,55.61",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      }
+    ]
+  },
+  {
+    "packet_id": 5,
+    "attack_simulated": true,
+    "attack_details": {
+      "attack_type": "Data Corruption",
+      "targeted_subpacket_id": "5-1",
+      "original_encrypted_fragment": ":\"erutarepmet\" ,\"2436-NS\" :\"di_rosnes\" ",
+      "tampered_encrypted_fragment": ":\"erutarepmet\" ,\"24<TAMPERED>36-NS\" :\"di_rosnes\" "
+    },
+    "subpackets": [
+      {
+        "subpacket_id": "5-0",
+        "signature": "d359892ddd80c5f6c37ad50dbf94b8fdb42120718d74e51e888d0eefbc0c693a",
+        "encrypted_data": ",49.099 :\"erusserp\" ,24.34 :\"ytidimuh\"{",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "5-1",
+        "signature": "ab887de438826d398ecde1ce8bafccae790797857fc45f845767cc9922a76496",
+        "encrypted_data": ":\"erutarepmet\" ,\"24<TAMPERED>36-NS\" :\"di_rosnes\" ",
+        "tampered": true,
+        "original_encrypted_data_before_tamper": ":\"erutarepmet\" ,\"2436-NS\" :\"di_rosnes\" "
+      },
+      {
+        "subpacket_id": "5-2",
+        "signature": "b3e3166f27ccfd18c189aef80dfe4b50f1a658254dd9bc2e1d21b408a874778d",
+        "encrypted_data": "}118933.7550374471 :\"pmatsemit\" ,23.92 ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      }
+    ]
+  },
+  {
+    "packet_id": 6,
+    "attack_simulated": true,
+    "attack_details": {
+      "attack_type": "Data Corruption",
+      "targeted_subpacket_id": "6-2",
+      "original_encrypted_fragment": "}418933.7550374471 :\"pmatsemit\" ,46.92 ",
+      "tampered_encrypted_fragment": "}418933.7550374471 <TAMPERED>:\"pmatsemit\" ,46.92 "
+    },
+    "subpackets": [
+      {
+        "subpacket_id": "6-0",
+        "signature": "e5d5c894b641c5dfe92b6daf9ca09ecf718322d9f67a8740dc90f24a8f7944da",
+        "encrypted_data": ",71.699 :\"erusserp\" ,62.96 :\"ytidimuh\"{",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "6-1",
+        "signature": "93a64ffd11c31033c4be94f91466659d1a1f058ef0f2e689ba74394700cab3e9",
+        "encrypted_data": ":\"erutarepmet\" ,\"5794-NS\" :\"di_rosnes\" ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "6-2",
+        "signature": "5c23b4ce5c217b1a0f31eade786872689e69a3e82fc578b8089252395c03c88f",
+        "encrypted_data": "}418933.7550374471 <TAMPERED>:\"pmatsemit\" ,46.92 ",
+        "tampered": true,
+        "original_encrypted_data_before_tamper": "}418933.7550374471 :\"pmatsemit\" ,46.92 "
+      }
+    ]
+  },
+  {
+    "packet_id": 7,
+    "attack_simulated": true,
+    "attack_details": {
+      "attack_type": "Data Corruption",
+      "targeted_subpacket_id": "7-0",
+      "original_encrypted_fragment": ",17.1401 :\"erusserp\" ,58.94 :\"ytidimuh\"{",
+      "tampered_encrypted_fragment": ",17.1401 :\"erusserp\"<TAMPERED> ,58.94 :\"ytidimuh\"{"
+    },
+    "subpackets": [
+      {
+        "subpacket_id": "7-0",
+        "signature": "2d6592e8bf2ac0542632a13e352dd16a5a07f72c8821c4ea06a4572811d02fa2",
+        "encrypted_data": ",17.1401 :\"erusserp\"<TAMPERED> ,58.94 :\"ytidimuh\"{",
+        "tampered": true,
+        "original_encrypted_data_before_tamper": ",17.1401 :\"erusserp\" ,58.94 :\"ytidimuh\"{"
+      },
+      {
+        "subpacket_id": "7-1",
+        "signature": "e35cae554dced4a6ad7ca05cd1ec8caeec118608e9ab7dc0dd09e08ad1712444",
+        "encrypted_data": " :\"erutarepmet\" ,\"8259-NS\" :\"di_rosnes\" ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "7-2",
+        "signature": "6f6083afd24d8ea3ad052ac7a67bf1307a108407cc683148cceb4cad18e0912a",
+        "encrypted_data": "}818933.7550374471 :\"pmatsemit\" ,99.02",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      }
+    ]
+  },
+  {
+    "packet_id": 8,
+    "attack_simulated": false,
+    "attack_details": null,
+    "subpackets": [
+      {
+        "subpacket_id": "8-0",
+        "signature": "761d47778754814f1f0444b95b4f8b2067ea313cb68c10eabe691c3e7f4a4c7e",
+        "encrypted_data": ",25.989 :\"erusserp\" ,21.86 :\"ytidimuh\"{",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "8-1",
+        "signature": "2a8793f40dfbe7056f6bd691a6b6b89e9a004f837e499dc6192e7df8bc4242bd",
+        "encrypted_data": ":\"erutarepmet\" ,\"9693-NS\" :\"di_rosnes\" ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "8-2",
+        "signature": "efb50ad027d78b303eebc27dd520f2821216aeedaede8ed9f14d4839f01f5f3e",
+        "encrypted_data": "}528933.7550374471 :\"pmatsemit\" ,38.62 ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      }
+    ]
+  },
+  {
+    "packet_id": 9,
+    "attack_simulated": true,
+    "attack_details": {
+      "attack_type": "Data Corruption",
+      "targeted_subpacket_id": "9-2",
+      "original_encrypted_fragment": "}828933.7550374471 :\"pmatsemit\" ,85.82 ",
+      "tampered_encrypted_fragment": "}828933.7550374471 <TAMPERED>:\"pmatsemit\" ,85.82 "
+    },
+    "subpackets": [
+      {
+        "subpacket_id": "9-0",
+        "signature": "cbbc7d94e54acb8f40a7ac23f9e80f9432775c7cde441be21d0cf7cecc419ce7",
+        "encrypted_data": ",94.889 :\"erusserp\" ,44.64 :\"ytidimuh\"{",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "9-1",
+        "signature": "5c64b677d30d764adfa31d242ba2795d425e477a5e68682e4cafd09fea5ddcf6",
+        "encrypted_data": ":\"erutarepmet\" ,\"4538-NS\" :\"di_rosnes\" ",
+        "tampered": false,
+        "original_encrypted_data_before_tamper": null
+      },
+      {
+        "subpacket_id": "9-2",
+        "signature": "c94ec1e8fef29b507da3f36b32dcf4c12c783966f74fec83fba6fae531da06b0",
+        "encrypted_data": "}828933.7550374471 <TAMPERED>:\"pmatsemit\" ,85.82 ",
+        "tampered": true,
+        "original_encrypted_data_before_tamper": "}828933.7550374471 :\"pmatsemit\" ,85.82 "
+      }
+    ]
+  }
+]
